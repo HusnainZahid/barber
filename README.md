@@ -1,4 +1,4 @@
-Barber Shop
+# Barber Shop
 
 Barber Hair Salon is your personal grooming, where we don't just cut hair; we craft your signature style. Our skilled barbers are dedicated to ensuring you leave our chairs looking and feeling your absolute best.
 
